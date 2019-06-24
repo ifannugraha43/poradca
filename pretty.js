@@ -25,7 +25,7 @@ if(x=="1"){xxx="how-to-become-travel-nurse.html"}
 if(x=="2"){xxx="how-to-become-travel-agent-from-home-in.html"}
 if(x=="3"){xxx="how-do-travel-agents-make-money.html"}
 if(x=="4"){xxx="how-to-become-disney-travel-agent.html"}
-if(x=="5"){xxx="best-credit-cards-for-travel-insurance.html"}a_to_ve[i].href="http://poradca.info/insurance.mybestpartytravel.com/2018/12/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="best-credit-cards-for-travel-insurance.html"}a_to_ve[i].href="http://poradca.info/go/?https://insurance.mybestpartytravel.com//2018/12/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
